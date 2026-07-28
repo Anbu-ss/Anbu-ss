@@ -65,7 +65,7 @@ My goal is simple: grow into a strong **Software Engineer** specializing in **Fu
 | 🎓 **Education** | B.Tech in Information Technology |
 | 💼 **Role** | Full Stack Web Developer |
 | 🎯 **Career Goal** | Software Engineer — Full Stack Development & Modern Web Tech |
-| 📍 **Focus Areas** | React.js, Node.js, Firebase/Supabase, MongoDB Atlas, REST APIs |
+| 📍 **Focus Areas** | React.js, Node.js, Firebase/Supabase, MongoDB Atlas, REST APIs, Java script, Tailwind CSS |
 | 🗣️ **Languages** | English, Tamil |
 
 </td>
@@ -83,13 +83,13 @@ My goal is simple: grow into a strong **Software Engineer** specializing in **Fu
 **🚀 What I'm Building**
 - Scaling **Avadi Connect** with ward-based features
 - Building **MathBuddy AI** with LLM-powered tutoring
-- Strengthening **TypeScript** across the stack
+- Strengthening **next.js** across the stack
 
 </td>
 <td width="50%" valign="top">
 
 **📚 What I'm Learning**
-- Working with **Firebase, Supabase & MongoDB Atlas**
+- Working with **Firebase, Supabase & MongoDB Atlas,Postman**
 - Prompt engineering with **ChatGPT, Claude & Gemini**
 - Cloud deployment best practices (Vercel/Render)
 
